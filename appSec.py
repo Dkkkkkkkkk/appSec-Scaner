@@ -45,7 +45,7 @@ def print_banner():
       |_|                                                            
     """
     print(f"{CYAN}{banner}{RESET}")
-    print(f" {GREEN}v1.0{RESET} | Ferramenta de Auditoria AppSec | {YELLOW}@fernandes{RESET}\n")
+    print(f" {GREEN}v1.0{RESET} | Ferramenta de Auditoria AppSec | {YELLOW}@fernandes.dev{RESET}\n")
 
 def analyze_url(target_url):
     
