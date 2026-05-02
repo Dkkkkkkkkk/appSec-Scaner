@@ -44,12 +44,13 @@ pip install requests
 
 ## 📥 Como Utilizar
 
-Clone o repositório ou salve o script:
+1. **Clone o repositório ou salve o script:**
+   ```bash
+   git clone [https://github.com/Dkkkkkkkkk/appSec-Scaner/](https://github.com/Dkkkkkkkkk/appSec-Scaner/)
+  
+   ```
 ```bash
-git clone https://github.com/Dkkkkkkkkk/appSec-Scaner/
-```
-```bash
-cd appsec-scanner
+cd appSec-Scaner
 ```
 
 Execute o script:
